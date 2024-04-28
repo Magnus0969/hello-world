@@ -1,0 +1,24 @@
+Name: Karthik B Magadi
+Age: 19
+Location: Bangalore, Karnataka
+
+About Me:
+👋 Hello world! I'm Karthik B Magadi, an enthusiastic AIML engineering student passionate about harnessing the power of technology to solve real-world problems.
+
+Goals:
+I will learn the following topics:
+1. Python
+2. Advanced Python
+3. SQL
+4. Git
+5. Data Visualization
+6. Machine Learning
+7. Advanced AI technologies like ChatGPT 4, OpenAI API
+8. Agile methodologies
+9. Project management with rotational roles
+10. Collaboration and stakeholder management
+11. Problem-solving and analytical skills
+12. Professional standards and industry best practices
+13. Effective communication and presentation skills
+14. Innovation and adaptability
+The internship will provide hands-on experience through real-life industry projects, following an Agile sprint model. It will cover the entire tech stack required to become an AI and ML engineer, including data science competencies, integration of Python and SQL, and exposure to cutting-edge AI technologies.
